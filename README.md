@@ -13,3 +13,4 @@ The model uses a deep neural network (DNN) configured with five hidden layers to
 I used the one-dimensional Saint-Venant equations for modeling water flow, incorporating continuity and momentum equations that describe the dynamics of water movement within a river channel.
 
 The PINN model demonstrates significant improvements in predicting water depths compared to traditional methods, with detailed analysis of the model's performance using metrics like the relative L2 error and RMSE.
+？
